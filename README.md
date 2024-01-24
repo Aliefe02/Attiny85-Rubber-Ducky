@@ -12,3 +12,9 @@ Then it will download a backdoor which you can find in my other repo (https://gi
 (Victim.py is converted into Victim.pyw so it doesn't open a window. Then using pyinstaller it is converted to exe file so it runs on any windows with no dependency. I also changed its name so it won't be an obvious threat)
 </br>
 After downloading the program, it will launch it and close powershell window.
+</br>
+</br>
+</br>
+ I am using Turkish layout keyboard so I installed  another keyboard library
+ </br>
+https://github.com/ernesto-xload/DigisparkKeyboard
