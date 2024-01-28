@@ -14,6 +14,8 @@ Then it will download a backdoor which you can find in my other repo (https://gi
 After downloading the program, it will launch it and close powershell window.
 </br>
 </br>
+OLD code is slower, I uploaded a new code. This code writes all the code into the Run window. Then it opens cmd in minimum size and when download ends, it closes automatically. When device hits enter for administrative rights, you can unplug it. Download will start and program will close itself
+</br>
 </br>
  I am using Turkish layout keyboard so I installed  another keyboard library
  </br>
